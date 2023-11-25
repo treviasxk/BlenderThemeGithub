@@ -9,7 +9,6 @@ All themes were created by me, please consider buying me a coffee :)
  Paypal: trevias@live.com
 
  ## Screenshots
-
 ![Preview](/Images/Github_Dark_Colorbind_01.jpg)
 
 ![Preview](/Images/Github_Dark_Colorbind_02.jpg)
