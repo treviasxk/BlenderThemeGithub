@@ -1,5 +1,5 @@
 # Blender Github Theme
-Github dark theme for blender, I will update the repository when I create more themes.
+Github dark theme for blender 4.0, I will update the repository when I create more themes.
 All themes were created by me, please consider buying me a coffee :)
 
 ![Preview](/Images/Github_Dark_Colorbind_01.jpg)
