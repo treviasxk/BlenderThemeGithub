@@ -351,7 +351,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#21262d16"
+        grid="#0281ff14"
         clipping_border_3d="#2b2b2bff"
         wire="#666666"
         wire_edit="#000000"
