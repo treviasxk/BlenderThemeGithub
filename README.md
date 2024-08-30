@@ -3,9 +3,6 @@ Github dark theme for blender 4.0, I will update the repository when I create mo
 All themes were created by me, please consider buying me a coffee :)
 
 ## Donate
- - Brazil
- PIX: trevias@live.com
- - International
  Paypal: trevias@live.com
 
  ## Screenshots
